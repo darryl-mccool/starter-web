@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This is a simple repo for playing around with git. I'm trying out some git best practices.
+Things such as rebase and Git common-flow.
 
 ## Introduction
 
