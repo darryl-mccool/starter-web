@@ -5,7 +5,7 @@ More changes from myfeature branch. Updating for emerg fix after stash.
 
 ## Introduction
 
-This is the introduction section
+Welcome!
 
 ## Purpose
 
